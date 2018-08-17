@@ -1,3 +1,5 @@
+# this script shpws how each filter responds to the input image
+
 from keras.preprocessing import image
 import numpy as np
 import os
